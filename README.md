@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hamid Iqbal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3WfeKJY1fL8FjcqFicJGHA&ust=1715914379014000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjS26-VkYYDFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid-iqball&label=Profile%20views&color=0e75b6&style=flat" alt="hamid-iqball" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamid-iqball" alt="hamid-iqball" /></a> </p>
+- 🔭 I’m currently working on **The-Wild-Oasis**
 
-- 🔭 I’m currently working on **The_Wild-Oasis**
+- 🌱 I’m currently learning **React Query and supaBase**
+
+- 💬 Ask me about **JavaScript , React , CSS , TailwindCSS ,Front-End-Web Development**
 
 - 📫 How to reach me **hamid.iqbal00123@gmail.com**
+
+- ⚡ Fun fact **I think i am funny 😁!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamid-iqball&show_icons=true&locale=en" alt="hamid-iqball" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamid-iqball&" alt="hamid-iqball" /></p>
-
