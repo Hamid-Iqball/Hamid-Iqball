@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hamid.iqbal00123@gmail.com**
 
-- ⚡ Fun fact **I think i am funny and little bit of gym freak !**
+- ⚡ Fun fact **I think i am funny 😁 !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
