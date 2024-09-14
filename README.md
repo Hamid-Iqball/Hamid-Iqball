@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Query and supaBase**
 
-- 💬 Ask me about **JavaScript , React , CSS , TailwindCSS , Redux ,Redux-toolkit, Zustand, axios, React-Query, React-Hoook-forms, Front-End-Web Development**
+- 💬 Ask me about **JavaScript , React , CSS , TailwindCSS , Redux, Redux-toolkit, Zustand, axios, React-Query, React-Hoook-forms, Front-End-Web Development**
 
 - 📫 How to reach me **hamid.iqbal00123@gmail.com**
 
