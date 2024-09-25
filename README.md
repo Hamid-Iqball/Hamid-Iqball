@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **The-Wild-Oasis**
 
-- 🌱 I’m currently learning **React JS and SupaBase**
+- 🌱 I’m currently learning **Next JS and SupaBase**
 
 - 💬 Ask me about **JavaScript , React , CSS , TailwindCSS , Redux, Redux-toolkit, Zustand, axios, React-Query, React-Hoook-forms, Front-End-Web Development**
 
