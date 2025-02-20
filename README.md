@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Hire 2.O and the-wild-oasis-webiste **
 
-- 🌱 I’m currently learning **Next JS and typescript**
+- 🌱 I’m currently learning **OAuth and typescript**
 
 - 💬 Ask me about **JavaScript , React , CSS , TailwindCSS , Redux, Redux-toolkit, Zustand, axios, React-Query, React-Hoook-forms, Supabase, Front-End-Web Development**
 
