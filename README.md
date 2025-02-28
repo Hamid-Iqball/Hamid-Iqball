@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OAuth and typescript**
 
-- 💬 Ask me about **JavaScript , React , CSS , TailwindCSS , Redux, Redux-toolkit, Zustand, axios, React-Query, React-Hoook-forms, Supabase, Front-End-Web Development**
+- 💬 Ask me about **React Js, Next JS, TypeScript, JavaScript, Supabase**
 
 - 📫 How to reach me **hamid.iqbal00123@gmail.com**
 
