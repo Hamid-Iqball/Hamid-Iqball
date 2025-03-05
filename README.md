@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid-iqball&label=Profile%20views&color=0e75b6&style=flat" alt="hamid-iqball" /> </p>
 
-- 🔭 I’m currently working on **Hire 2.O and the-wild-oasis-webiste and SAAS webapplication **
+- 🔭 I’m currently working on **3D portfolio with React-three-fiber , the-wild-oasis-webiste in NextJs+Supbaase and SAAS webapplication **
 
 - 🌱 I’m currently learning **OAuth and typescript**
 
