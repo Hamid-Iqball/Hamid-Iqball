@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **3D portfolio with React-three-fiber , the-wild-oasis-webiste in NextJs+Supbaase and SAAS webapplication **
 
-- 🌱 I’m currently learning **OAuth and typescript**
+- 🌱 I’m currently learning **OAuth and React-Three-Fiber**
 
 - 💬 Ask me about **React Js, Next JS, TypeScript, JavaScript, Supabase**
 
