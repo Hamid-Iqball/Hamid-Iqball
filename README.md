@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on ** NextJs+Supbaase and SAAS webapplication **
 
-- 🌱 I’m currently learning **OAuth and React-Three-Fiber**
-
 - 💬 Ask me about **React Js, Next JS, TypeScript, JavaScript, Supabase**
 
 - 📫 How to reach me **hamid.iqbal00123@gmail.com**
